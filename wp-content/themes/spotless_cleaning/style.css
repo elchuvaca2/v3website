@@ -1,0 +1,177 @@
+.custom-shadow {
+    -webkit-box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 4px 5px 0px rgba(0,0,0,0.75);
+}
+
+.bg-blackanddark {
+    height: 41px;
+    background-color: #000;
+}
+
+.align-top-bar {
+    margin-left: 10%;
+    margin-right: 1%;
+    width: 100%;
+}
+
+.address-info {
+    font-size: 0.4rem;
+    color: white;
+    text-align: left;
+}
+
+.color-white {
+    color: white;
+}
+
+.right-position-quick-quote {
+    border-radius: 0;
+    text-align: left;
+    background-color: rgb(53,101,147);
+    border-color: rgb(53,101,147);
+}
+
+.phone-info {
+    font-size: 0.4rem;
+    color: white;
+    text-align: right;
+}
+
+.padd-menu-bar {
+    padding-top: 6px;
+    text-align: right;
+}
+
+.top-left-logo {
+    width: 34%;
+    height: 30%;
+    margin-left: 36%;
+}
+
+.right-row {
+    display: inline;
+}
+
+.retain-right {
+    float: right;
+    margin-right: 15%;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.padd-top {
+    padding-top: 1%;
+}
+
+.background-sub-menu {
+    width: 100%;
+    height: 20px;
+    background-color: rgb(127,127,127);
+}
+
+.center-title-actions {
+    margin-top: 5%;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.lem-text {
+    margin-top: 2%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.align-center {
+    margin-top: 6%;
+    margin-bottom: 5%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-element {
+    padding: 1%;
+    text-align: center;
+}
+
+.box-container {
+    width: 100%;
+    height: 240px;
+    background-color: #ddd;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.box-text-content {
+    display: inline-block;
+    margin-top: 45%;
+    width: 100%;
+    text-align: center;
+}
+
+.text-box {
+    font-size: 0.3rem;
+    font-family: 'Cabin', sans-serif;
+}
+
+.title-main-box {
+    font-family: 'Anton', sans-serif;
+}
+
+.bottom-amount {
+    font-weight: 900;
+}
+
+.img-box {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: -18%;
+    left: 24%;
+    border: 3px solid #A9A9A9;
+    border-style: double;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.footer {
+    background-color: rgb(53,101,147);
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.image-footer { 
+    width: 23%;
+}
+
+.link-foot {
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+}
+
+.right-space {
+    margin-right: 2%;
+}
+
+.bottom-tiny-text {
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 0.8em;
+}
+
+.top-text-footer {
+    font-family: 'Cabin', sans-serif;
+    margin-top: 2%;
+}
+
+.menu-text {
+    font-family: 'Fjalla One', sans-serif;
+}
